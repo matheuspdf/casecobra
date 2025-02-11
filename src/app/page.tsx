@@ -108,5 +108,3 @@ export default function Home() {
     </div>
   );
 }
-
-// 28:58
